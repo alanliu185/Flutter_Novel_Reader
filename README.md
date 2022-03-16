@@ -1,0 +1,2 @@
+# Flutter_Novel_Reader
+耗费一年半开发25w用户的小说阅读器，支持iOS和Android
