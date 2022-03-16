@@ -10,7 +10,7 @@
 如果有用户想要学习这个项目，后续考虑开源。
 
 ### 视频演示
-视频被压缩，清晰度和流畅度不够，有意向可以联系我，发你App体验。
+视频被压缩，清晰度和流畅度不够，有意向可以联系我，发你App体验。<br>
 ![视频演示](https://github.com/LiangLuDev/Flutter_Novel_Reader/blob/main/video.gif?raw=true)
 
 ## 功能点
