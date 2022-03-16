@@ -1,7 +1,7 @@
 # 花火阅读
 
 ### 前言
-耗费业余1年半时间，研发一款精美小说阅读器，由于无精力运营和种种原因，准备打包出售。
+我们使用Flutter，耗费业余1年半时间，研发一款精美小说阅读器，由于无精力运营和种种原因，准备打包出售。
 目前这款阅读器的用户数 25w+，日活2w+。此阅读器支持iOS和Android双平台。
 已上架iOS App Store，安卓市场（华为、小米、Google Play、应用宝、酷安、葫芦侠），目前均已下架。<br>
 如果有小说阅读器的需求（其他项目需求也可以），欢迎找我定制，我们有专业设计师和软件工程师。<br>
@@ -9,7 +9,7 @@
 
 ### 视频演示
 视频被压缩，清晰度和流畅度不够，有意向可以联系我，发你App体验。
-![](https://gitee.com/turbo-studio/image/raw/master/image/20210215225951.gif)
+![视频演示](https://github.com/LiangLuDev/Flutter_Novel_Reader/blob/main/video.gif?raw=true)
 
 ## 功能点
 包含了很多细节功能点，没法一一列出。
